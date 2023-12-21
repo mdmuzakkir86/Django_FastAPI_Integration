@@ -1,4 +1,7 @@
 # TaskManager: Simple Django and FastAPI Integration Task Management Project
+
+In this project, There is main.py file in root directory, which has a FastAPI app and main.py file has a configurations which integrate FastAPI with Django ORM.
+
 Note: I won't be able to implement html files with FastAPI routers due to lack of time. You can test CURD operations from http://127.0.0.1:8000/docs.
 
 **Follow steps properly else you may get below System realted errors**
