@@ -32,6 +32,6 @@ Note: I won't be able to implement html files with FastAPI routers due to lack o
     **Once the django development server is running, access the application in your browser at http://127.0.0.1:8000/.**
    
 9. **To Start the FastAPI Development Server**:
-    *unicorn main:app --reload*  - make sure your in TaskManager
+    *uvicorn main:app --reload*  - make sure your in TaskManager
    **Once the FastAPI development server is running, access the application in your browser at http://127.0.0.1:8000/docs.**
     
